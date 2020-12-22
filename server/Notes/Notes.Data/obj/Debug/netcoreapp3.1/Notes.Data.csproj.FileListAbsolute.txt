@@ -1,0 +1,12 @@
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.deps.json
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.dll
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.csprojAssemblyReference.cache
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.AssemblyInfoInputs.cache
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.AssemblyInfo.cs
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Data.pdb
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Model.dll
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\bin\Debug\netcoreapp3.1\Notes.Model.pdb
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.csproj.CopyComplete
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.dll
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.pdb
+C:\GitHubRepo\Notes\server\Notes\Notes.Data\obj\Debug\netcoreapp3.1\Notes.Data.csproj.CoreCompileInputs.cache
