@@ -241,7 +241,4 @@ ModelManifest.xml
 
 
 /output.plugins
-
-/src/Honeywell.Database.FirmwareInventory/Honeywell.Database.FirmwareInventory.jfm
-
-/DMCRelease/
+*.vs/
